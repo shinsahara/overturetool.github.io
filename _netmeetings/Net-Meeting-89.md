@@ -36,10 +36,11 @@ See [Net Meeting Actions](https://github.com/overturetool/overturetool.github.io
 
 ## Status of VDMTools Development
 
-#### topic 1
+#### VDMTools
 
-some description
+* 2015-03-31 VDMTools 9.0.6 was released.
 
+See http://www.vdmtools.jp/en/
 
 ##  Status of the Overture Components
 
