@@ -36,9 +36,9 @@ some description
 
 ## Status of VDMTools Development
 
-#### topic 1
-
-some description
+#### VDMTools maintenance
+* Status is stable :-) 
+* But, Dr.K seems to maintain VDMTools personally.
 
 
 ##  Status of the Overture Components
