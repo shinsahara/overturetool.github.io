@@ -14,7 +14,7 @@ date: 9 September 2018, 1200 CEST
 |||
 |---|---|
 | Date | {{ page.date | date: "%-d %B %Y, %R %Z"}} |
-| Participants | PGL, TO, PJ, NP, KP, MV, HM.  Minutes by PJ. |
+| Participants | PGL, TO, PJ, NP, KP, MV, HM, SS.  Minutes by PJ. |
 
 
 ## Review Status of the Action List
